@@ -1,0 +1,47 @@
+.logo img {
+    width: 25px;
+}
+
+.logo p {
+    color: aliceblue;
+}
+
+.header-app {
+        background-color: #190712;
+    
+    
+
+}
+
+.header-in {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 35px 0 35px ;
+    align-items: center;
+    
+}
+
+/* .navigation {
+
+} */
+
+.navigation ul {
+    display: flex;
+    gap: 30px;
+}
+
+.navigation ul li {
+    list-style: none;
+    
+}
+
+.navigation ul li a {
+    text-decoration: none;
+    font-size: 10px;
+    color: aliceblue;
+}
+
+.btnjs {
+    background-color: orange;
+    border-radius: 20px;
+}

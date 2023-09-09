@@ -1,0 +1,20 @@
+.cardsBook {
+    background-color: aliceblue;
+    
+}
+
+.card {
+    padding: 10px 10px 10px 10px;
+    background-color: black;
+}
+
+.card img {
+    width: 100px;
+    
+}
+
+.cardsBook p {
+    font-size: 15px;
+    color: aliceblue;
+    font-family: sans-serif;
+}
